@@ -112,18 +112,18 @@ Below the **Dashboard** that heve been made.
 
 <div style="text-align:center"><img src="https://i.ibb.co/68wYFPL/image9.png" /></div>
 
-This is an illustrative scenario of use :
+Following, an illustrative scenario of use :
 
-1. Set Min and Max alert levels
+**1. Set Min and Max alert levels**
 <div style="text-align:center"><img src="https://i.ibb.co/z7kWDN6/image10.png" /></div>
 
-2. Access made by *Oussama Oulkaid* - The administrator receives a message via email
+**2. Access made by *Oussama Oulkaid* - The administrator receives a message via email**
 <div style="text-align:center"><img src="https://i.ibb.co/KrgjVqc/image11.png" /></div>
 
-3. Access made by an unknown person - The administrator receives a message via email
+**3. Access made by an unknown person - The administrator receives a message via email**
 <div style="text-align:center"><img src="https://i.ibb.co/6ZfstvN/image12.png" /></div>
 
-4. Maximal alert level acheied - The administrator receives a message via email
+**4. Maximal alert level acheied - The administrator receives a message via email**
 <div style="text-align:center"><img src="https://i.ibb.co/p3rzB8K/image13.png" /></div>
 
 ---
