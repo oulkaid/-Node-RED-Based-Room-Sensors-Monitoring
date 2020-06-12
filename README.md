@@ -53,10 +53,10 @@ The platform will be used as follows :
 
 - 2 x Arduino Uno : acquisition of sensors values and interfacing with Node-RED *
 - 1 x RFID Module and Tags : users identification
-- 1 x Photoresistence : brightness level detection
+- 1 x Photoresistor : brightness level detection
 - 1 x Buzzer Alarm : sound effects accompanying RFID identification
 
-<div style="text-align:center"><img src="https://i.ibb.co/dfDJJQv/image3.png" /></div>
+<div style="text-align:center"><img src="https://i.ibb.co/88QDDbT/image3.png" /></div>
 
 ---
 
