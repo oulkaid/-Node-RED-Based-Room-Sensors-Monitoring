@@ -1,6 +1,6 @@
 # Node-RED Based Room Sensors Monitoring
 
-<div style="text-align:center"><img src="https://i.ibb.co/qnr0Bbg/image1.png" /></div>
+<div style="text-align:center"><img src="https://i.ibb.co/qnr0Bbg/image1.png" style="width: 80%;" /></div>
 
 > This is an academic project, which aims to use Node-RED for the monitoring of data coming from several sensors
 ---
@@ -30,7 +30,7 @@ The application is based on the analysis of data provided by :
 - The role of the RFID reader is to identify persons asking to get into the room. Based on their identifiers we can decide eather to authorize them to enter or to deney their access
 - The objective is to remotely supervise the data specific to the use of the room. Namely, the brightness value and information about the people who frequent it
 
-<div style="text-align:center"><img src="https://i.ibb.co/xfrbFBK/image2.png" /></div>
+<div style="text-align:center"><img src="https://i.ibb.co/xfrbFBK/image2.png" style="width: 70%;" /></div>
 
 ---
 
@@ -56,7 +56,7 @@ The platform will be used as follows :
 - 1 x Photoresistence : brightness level detection
 - 1 x Buzzer Alarm : sound effects accompanying RFID identification
 
-<div style="text-align:center"><img src="https://i.ibb.co/QHDVkVn/image3.png" /></div>
+<div style="text-align:center"><img src="https://i.ibb.co/QHDVkVn/image3.png" style="width: 70%;" /></div>
 
 ---
 
@@ -104,13 +104,13 @@ This part is dedicated to programming various functions and operations that will
 This part constitutes the user interface. This is where we see the change in sensor values, etc. As you can also control parameters, but graphically.
 Below the **Dashboard** that heve been made.
 
-<div style="text-align:center"><img src="https://i.ibb.co/xYVBqb8/image8.png" /></div>
+<div style="text-align:center"><img src="https://i.ibb.co/xYVBqb8/image8.png" style="width: 80%;" /></div>
 
 ---
 
 ## Demonstration
 
-<div style="text-align:center"><img src="https://i.ibb.co/cywr0zd/image9.png" /></div>
+<div style="text-align:center"><img src="https://i.ibb.co/cywr0zd/image9.png" style="width: 70%;" /></div>
 
 This is an illustrative scenario of use :
 
@@ -118,22 +118,22 @@ This is an illustrative scenario of use :
 <div style="text-align:center"><img src="https://i.ibb.co/z7kWDN6/image10.png" /></div>
 
 2. Access made by *Oussama Oulkaid*
-<div style="text-align:center"><img src="https://i.ibb.co/G5dH9Sx/image11.png" /></div>
+<div style="text-align:center"><img src="https://i.ibb.co/G5dH9Sx/image11.png" style="width: 80%;" /></div>
 
 3. The administrator receives a message via email
-<div style="text-align:center"><img src="https://i.ibb.co/Vqhv9Ly/image12.png" /></div>
+<div style="text-align:center"><img src="https://i.ibb.co/Vqhv9Ly/image12.png" style="width: 80%;" /></div>
 
 4. Access made by an unknown person
-<div style="text-align:center"><img src="https://i.ibb.co/9tPw1Gq/image13.png" /></div>
+<div style="text-align:center"><img src="https://i.ibb.co/9tPw1Gq/image13.png" style="width: 80%;" /></div>
 
 5. The administrator receives a message via email
-<div style="text-align:center"><img src="https://i.ibb.co/NrzxyWt/image14.png" /></div>
+<div style="text-align:center"><img src="https://i.ibb.co/NrzxyWt/image14.png" style="width: 80%;" /></div>
 
 6. Maximal alert level acheied
-<div style="text-align:center"><img src="https://i.ibb.co/dQvNdgC/image15.png" /></div>
+<div style="text-align:center"><img src="https://i.ibb.co/dQvNdgC/image15.png" style="width: 80%;" /></div>
 
 7. The administrator receives a message via email
-<div style="text-align:center"><img src="https://i.ibb.co/J7nzfrw/image16.png" /></div>
+<div style="text-align:center"><img src="https://i.ibb.co/J7nzfrw/image16.png" style="width: 80%;" /></div>
 
 ---
 
