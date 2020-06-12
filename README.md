@@ -68,9 +68,9 @@ The platform will be used as follows :
 
 The reason behind using two Arduino instead of one is as follows :
 
-- First, the Arduino executing the main program initially contains a program called "Firmata Standard" which we modify by adding what we need to ensure interfacing between Arduino and external components (sensors and actuators)
+- First, the Arduino executing the main program initially contains a program called **Firmata Standard** which we modify by adding what we need to ensure interfacing between Arduino and external components (sensors and actuators)
 
-- This “Firmata Standard” program, which is part of the “Firmata” library, has the functionality of implementing the “Firmata” protocol which ensures communication between the program and the server; it is therefore essential to be able to work with Node-RED
+- This **Firmata Standard** program, which is part of the **Firmata** library, has the functionality of implementing the “Firmata” protocol which ensures communication between the program and the server; it is therefore essential to be able to work with Node-RED
 
 - It should be noted that this protocol is very encumbered. On the other hand, the code for reading RFID Tags takes a relatively long time. So to optimize and lighten the program, it was necessary to make this separation
 
