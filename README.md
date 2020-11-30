@@ -135,8 +135,8 @@ Following, an illustrative scenario of use :
 
 The project contains two files :
 
-1. [RFID_Arduino_Interface.ino](RFID_Arduino_Interface.ino) : reading RFID tags and inform the second arduino about the tags' values
-2. [Node-RED_Arduino_Interface.ino](Node-RED_Arduino_Interface.ino) : connecting the arduino to the Node-RED platform, in order to send data via a serial communication
+1. [RFID_Arduino_Interface.ino](src/RFID_Arduino_Interface.ino) : reading RFID tags and inform the second arduino about the tags' values
+2. [Node-RED_Arduino_Interface.ino](src/Node-RED_Arduino_Interface.ino) : connecting the arduino to the Node-RED platform, in order to send data via a serial communication
 
 ---
 
